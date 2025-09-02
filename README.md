@@ -1,7 +1,5 @@
 # ⚔️ ARKALLON (ARX)
 
-![ARKALLON Banner](https://arkallon.io/banner-arkallon.jpg)
-
 **ARKALLON (ARX)** — символ силы, воли и возмездия, запущенный на блокчейне **Solana SPL**.  
 Одна монета — один воин. Магия в блокчейне, власть в реальном мире.
 
@@ -19,10 +17,10 @@
 
 ## 🌐 Официальные ссылки
 - 🌍 Website: [arkallon.io](https://arkallon.io)  
-- 🐦 Twitter / X: [@ARKALLON_Token](https://twitter.com/ARKALLON_Token)  
+- 🐦 Twitter / X: [@arkallon_arx](https://twitter.com/arkallon_arx)  
 - 💬 Telegram: [@ARKALLON_ARX](https://t.me/ARKALLON_ARX)  
-- 🎮 Discord: [ARKALLON Community](https://discord.gg/arkallonarx)  
-- ▶️ YouTube: [ARKALLON](https://www.youtube.com/@ARKALLON)  
+- 🎮 Discord: [ARKALLON Community](https://discord.gg/KqCcGTQj)  
+- ▶️ YouTube: [ARKALLON](https://www.youtube.com/@arslanannaew8285)  
 - 📸 Instagram: [@arkallon_arx](https://www.instagram.com/arkallon_arx)  
 - 💻 GitHub: [ARKALLON-ARX](https://github.com/ARKALLON/ARKALLON-ARX)  
 
